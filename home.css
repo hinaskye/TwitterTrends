@@ -1,10 +1,30 @@
+html, body {
+	height:100%;
+	margin:0px;
+	background-color:#f1f1f1;
+}
+
+.wrapper {
+	min-height:94.7%;
+	margin-bottom:-50px;
+}
+
+.navbar {
+	margin-bottom:0px;
+}
+
 .sidenav {
 	padding-top: 20px;
 	background-color: #f1f1f1;
-	height: 85vh;
+	height: 100%;
+}
+
+.bg-white {
+	background-color:white;
 }
 
 footer {
+	height:50px;
 	background-color: #555;
 	color: white;
 	padding: 15px;
