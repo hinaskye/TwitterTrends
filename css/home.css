@@ -29,3 +29,8 @@ footer {
 	color: white;
 	padding: 15px;
 }
+
+.padding-x {
+	padding-left:4em;
+	padding-right:4em;
+}
